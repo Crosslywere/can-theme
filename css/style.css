@@ -1,0 +1,128 @@
+* {
+    color:inherit;
+    font-family:'Inter';
+}
+:root {
+    --can-primary: #0385B2;
+    --can-anchor: #03B285;
+}
+.hero-img {
+    background-attachment:fixed;
+    background-size:cover;
+    height:420px !important;
+    min-height:fit-content !important;
+}
+.text-can-primary {
+    color:var(--can-primary) !important;
+}
+.list-style-type-none {
+    list-style-type:none !important;
+}
+.font-thin {
+    font-weight:100 !important;
+}
+.font-extra-light {
+    font-weight:200 !important;
+}
+.font-light {
+    font-weight:300 !important;
+}
+.font-regular {
+    font-weight:400 !important;
+}
+.font-medium {
+    font-weight:500 !important;
+}
+.font-semi-bold {
+    font-weight:600 !important;
+}
+.font-bold, .hero-text h1 {
+    font-weight:700 !important;
+}
+.font-extra-bold {
+    font-weight:800 !important;
+}
+.font-black {
+    font-weight:900 !important;
+}
+.lh-1 {
+    line-height:1 !important;
+}
+.lh-2 {
+    line-height:1.15 !important;
+}
+.lh-3 {
+    line-height:1.25 !important;
+}
+.lh-4 {
+    line-height:1.5 !important;
+}
+.lh-5, .hero-text p {
+    line-height:2 !important;
+}
+.background-can-primary {
+    background-color:var(--can-primary);
+}
+.background-yellow {
+    background-color:#FF0;
+}
+.background-black {
+    background-color:#000;
+}
+.text-upper {
+    text-transform:capitalize !important;
+}
+.text-dark {
+    color:#000 !important;
+}
+.text-decoration-hover-underline:hover {
+    text-decoration:underline !important;
+}
+.font-small p, .font-small {
+    font-size:14px !important;
+}
+.font-large p, .font-large {
+    font-size:3em !important;
+}
+.font-larger {
+    font-size:7.5em !important;
+}
+.hero-text h1 {
+    font-size:3.125em !important;
+    text-shadow:1px 1px 0 rgba(0 0 0 /60%);
+}
+.hero-text p {
+    display:none !important;
+}
+.z-index-under {
+    z-index:-1;
+}
+.center-absolute-y {
+    transform:translateY(-50%);
+    top:50% ;
+}
+a {
+    cursor:pointer !important;
+}
+a .text-decoration-none {
+    text-decoration:none !important;
+}
+@media (min-width:768px) {
+    .hero-text p {
+        display:block !important;
+    }
+    .font-larger, .font-large {
+        overflow-x:visible;
+    }
+    .position-md-static {
+        position:static !important;
+    }
+}
+/* 
+@media (min-width:992px) {
+}
+@media (min-width:1200px) {
+}
+@media (min-width:1400px) {
+}
+ */

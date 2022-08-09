@@ -1,0 +1,24 @@
+footer a {
+    color:var(--can-anchor) !important;
+}
+footer input {
+    width:100%;
+    color:black;
+    margin-bottom:1.5em;
+}
+footer button[type="submit"] {
+    padding:10px 30px;
+    border-width:0;
+    background-color:var(--can-anchor);
+}
+footer button[type="submit"]:hover {
+    animation: background-colorchange .66s;
+}
+@keyframes background-colorchange {
+    0% {
+        background-color:var(--can-anchor);
+    }
+    100% {
+        background-color:var(--can-primary);
+    }
+}
