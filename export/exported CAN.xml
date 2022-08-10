@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.1" created="2022-08-09 13:04" -->
+	<!-- generator="WordPress/6.0.1" created="2022-08-10 08:45" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Climate Advocacy Network</title>
 	<link>http://cadnet.test.ng</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Tue, 09 Aug 2022 13:04:51 +0000</pubDate>
+	<pubDate>Wed, 10 Aug 2022 08:45:07 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://cadnet.test.ng</wp:base_site_url>
@@ -183,77 +183,8 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>http://cadnet.test.ng/2022/08/07/10/</link>
-		<pubDate>Mon, 01 Aug 2022 04:51:27 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/?p=10</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-07 14:33:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-01 04:51:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-07 14:33:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-07 14:33:06]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[10]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-01]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-05]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-06]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Our Work]]></title>
-		<link>http://cadnet.test.ng/2022/08/07/our-work/</link>
+		<link>http://cadnet.test.ng/2022/08/10/our-work/</link>
 		<pubDate>Mon, 01 Aug 2022 04:51:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://cadnet.test.ng/?p=11</guid>
@@ -261,16 +192,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-07 14:33:06]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-08-10 08:18:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-01 04:51:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-07 14:33:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-07 14:33:06]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-08-10 08:18:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-10 08:18:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[our-work]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
+		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -319,10 +250,18 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-08-06]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-09]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[ABOUT]]></title>
-		<link>http://cadnet.test.ng/2022/08/07/about-us/</link>
+		<link>http://cadnet.test.ng/2022/08/10/about-us/</link>
 		<pubDate>Mon, 01 Aug 2022 04:51:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://cadnet.test.ng/?p=13</guid>
@@ -330,16 +269,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-07 14:33:06]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-08-10 08:18:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-01 04:51:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-07 14:33:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-07 14:33:06]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-08-10 08:18:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-10 08:18:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-us]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>3</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -388,6 +327,14 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-08-06]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-09]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[home-hero]]></title>
@@ -434,8 +381,8 @@
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-05 21:10:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-05 21:10:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-08 19:42:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-08 19:42:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-08-09 13:18:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-09 13:18:46]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer-content]]></wp:post_name>
@@ -447,7 +394,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[alt logo]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://cadnet.test.ng/wp-content/uploads/2022/08/CIEAN-LOGO-WHITE-e1659987614675.png]]></wp:meta_value>
+		<wp:meta_value><![CDATA[http://cadnet.test.ng/wp-content/uploads/2022/08/CIEAN-LOGO-WHITE-trimmed-e1660051090619.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[copyright]]></wp:meta_key>
@@ -481,10 +428,30 @@ Berkeley, CA 94704]]></wp:meta_value>
 		<wp:meta_key><![CDATA[support message]]></wp:meta_key>
 		<wp:meta_value><![CDATA[Your gift helps hold corporations accountable. Make a difference — donate today.]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[twitter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.twitter.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[facebook]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.facebook.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[instagram]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.instagram.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[youtube]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.youtube.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[linkedin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.linkedin.com]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Staff]]></title>
-		<link>http://cadnet.test.ng/2022/08/07/staff/</link>
+		<link>http://cadnet.test.ng/2022/08/10/staff/</link>
 		<pubDate>Sat, 06 Aug 2022 15:08:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://cadnet.test.ng/?p=23</guid>
@@ -492,16 +459,16 @@ Berkeley, CA 94704]]></wp:meta_value>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-07 14:33:06]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-08-10 08:18:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-06 15:08:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-07 14:33:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-07 14:33:06]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-08-10 08:18:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-10 08:18:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[staff]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
+		<wp:menu_order>5</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -542,10 +509,18 @@ Berkeley, CA 94704]]></wp:meta_value>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-08-06]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-09]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Team]]></title>
-		<link>http://cadnet.test.ng/2022/08/07/team/</link>
+		<link>http://cadnet.test.ng/2022/08/10/team/</link>
 		<pubDate>Sat, 06 Aug 2022 15:08:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://cadnet.test.ng/?p=24</guid>
@@ -553,16 +528,16 @@ Berkeley, CA 94704]]></wp:meta_value>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>24</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-07 14:33:06]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-08-10 08:18:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-06 15:08:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-07 14:33:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-07 14:33:06]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-08-10 08:18:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-10 08:18:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[team]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
+		<wp:menu_order>6</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -602,6 +577,14 @@ Berkeley, CA 94704]]></wp:meta_value>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-08-06]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -824,7 +807,7 @@ Berkeley, CA 94704]]></wp:meta_value>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>http://cadnet.test.ng/2022/08/07/55/</link>
+		<link>http://cadnet.test.ng/2022/08/10/55/</link>
 		<pubDate>Sun, 07 Aug 2022 11:49:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://cadnet.test.ng/?p=55</guid>
@@ -832,16 +815,16 @@ Berkeley, CA 94704]]></wp:meta_value>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>55</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-07 14:33:06]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-08-10 08:18:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-07 11:49:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-07 14:33:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-07 14:33:06]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-08-10 08:18:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-10 08:18:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[55]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
+		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -878,6 +861,14 @@ Berkeley, CA 94704]]></wp:meta_value>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-09]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[CIEAN LOGO BLACK]]></title>
@@ -910,43 +901,6 @@ Berkeley, CA 94704]]></wp:meta_value>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:3893;s:6:"height";i:1670;s:4:"file";s:28:"2022/08/CIEAN-LOGO-BLACK.png";s:8:"filesize";i:293215;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:28:"CIEAN-LOGO-BLACK-300x129.png";s:5:"width";i:300;s:6:"height";i:129;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12517;}s:5:"large";a:5:{s:4:"file";s:29:"CIEAN-LOGO-BLACK-1024x439.png";s:5:"width";i:1024;s:6:"height";i:439;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:56459;}s:9:"thumbnail";a:5:{s:4:"file";s:28:"CIEAN-LOGO-BLACK-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5713;}s:12:"medium_large";a:5:{s:4:"file";s:28:"CIEAN-LOGO-BLACK-768x329.png";s:5:"width";i:768;s:6:"height";i:329;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:39123;}s:9:"1536x1536";a:5:{s:4:"file";s:29:"CIEAN-LOGO-BLACK-1536x659.png";s:5:"width";i:1536;s:6:"height";i:659;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:101372;}s:9:"2048x2048";a:5:{s:4:"file";s:29:"CIEAN-LOGO-BLACK-2048x879.png";s:5:"width";i:2048;s:6:"height";i:879;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:150664;}s:9:"home-blog";a:5:{s:4:"file";s:29:"CIEAN-LOGO-BLACK-750x1000.png";s:5:"width";i:750;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:39012;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[CIEAN LOGO WHITE]]></title>
-		<link>http://cadnet.test.ng/ciean-logo-white/</link>
-		<pubDate>Sun, 07 Aug 2022 14:52:51 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/wp-content/uploads/2022/08/CIEAN-LOGO-WHITE.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>59</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-07 14:52:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-07 14:52:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-07 14:52:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-07 14:52:51]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[ciean-logo-white]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://cadnet.test.ng/wp-content/uploads/2022/08/CIEAN-LOGO-WHITE-e1659987614675.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022/08/CIEAN-LOGO-WHITE-e1659987614675.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:214;s:6:"height";i:88;s:4:"file";s:43:"2022/08/CIEAN-LOGO-WHITE-e1659987614675.png";s:8:"filesize";i:354994;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:28:"CIEAN-LOGO-WHITE-300x124.png";s:5:"width";i:300;s:6:"height";i:124;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:15047;}s:5:"large";a:5:{s:4:"file";s:29:"CIEAN-LOGO-WHITE-1024x422.png";s:5:"width";i:1024;s:6:"height";i:422;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:76458;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"CIEAN-LOGO-WHITE-e1659987614675-150x88.png";s:5:"width";i:150;s:6:"height";i:88;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7163;}s:12:"medium_large";a:5:{s:4:"file";s:28:"CIEAN-LOGO-WHITE-768x316.png";s:5:"width";i:768;s:6:"height";i:316;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:50776;}s:9:"1536x1536";a:5:{s:4:"file";s:29:"CIEAN-LOGO-WHITE-1536x633.png";s:5:"width";i:1536;s:6:"height";i:633;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:145731;}s:9:"2048x2048";a:5:{s:4:"file";s:29:"CIEAN-LOGO-WHITE-2048x843.png";s:5:"width";i:2048;s:6:"height";i:843;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:201592;}s:9:"home-blog";a:5:{s:4:"file";s:29:"CIEAN-LOGO-WHITE-750x1000.png";s:5:"width";i:750;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:74727;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_backup_sizes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:8:{s:9:"full-orig";a:3:{s:5:"width";i:4288;s:6:"height";i:1766;s:4:"file";s:20:"CIEAN-LOGO-WHITE.png";}s:14:"thumbnail-orig";a:5:{s:4:"file";s:28:"CIEAN-LOGO-WHITE-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7270;}s:11:"medium-orig";a:5:{s:4:"file";s:28:"CIEAN-LOGO-WHITE-300x124.png";s:5:"width";i:300;s:6:"height";i:124;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:15047;}s:17:"medium_large-orig";a:5:{s:4:"file";s:28:"CIEAN-LOGO-WHITE-768x316.png";s:5:"width";i:768;s:6:"height";i:316;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:50776;}s:10:"large-orig";a:5:{s:4:"file";s:29:"CIEAN-LOGO-WHITE-1024x422.png";s:5:"width";i:1024;s:6:"height";i:422;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:76458;}s:14:"1536x1536-orig";a:5:{s:4:"file";s:29:"CIEAN-LOGO-WHITE-1536x633.png";s:5:"width";i:1536;s:6:"height";i:633;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:145731;}s:14:"2048x2048-orig";a:5:{s:4:"file";s:29:"CIEAN-LOGO-WHITE-2048x843.png";s:5:"width";i:2048;s:6:"height";i:843;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:201592;}s:14:"home-blog-orig";a:5:{s:4:"file";s:29:"CIEAN-LOGO-WHITE-750x1000.png";s:5:"width";i:750;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:74727;}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1017,6 +971,73 @@ Berkeley, CA 94704]]></wp:meta_value>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:214;s:6:"height";i:92;s:4:"file";s:36:"2022/08/cropped-CIEAN-LOGO-BLACK.png";s:8:"filesize";i:8553;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:35:"cropped-CIEAN-LOGO-BLACK-150x92.png";s:5:"width";i:150;s:6:"height";i:92;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:6124;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[CIEAN LOGO WHITE-trimmed]]></title>
+		<link>http://cadnet.test.ng/ciean-logo-white-trimmed/</link>
+		<pubDate>Tue, 09 Aug 2022 13:17:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/wp-content/uploads/2022/08/CIEAN-LOGO-WHITE-trimmed.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>67</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-09 13:17:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-09 13:17:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-09 13:17:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-09 13:17:31]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[ciean-logo-white-trimmed]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://cadnet.test.ng/wp-content/uploads/2022/08/CIEAN-LOGO-WHITE-trimmed-e1660051090619.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/CIEAN-LOGO-WHITE-trimmed-e1660051090619.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:203;s:6:"height";i:92;s:4:"file";s:51:"2022/08/CIEAN-LOGO-WHITE-trimmed-e1660051090619.png";s:8:"filesize";i:319006;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:36:"CIEAN-LOGO-WHITE-trimmed-300x136.png";s:5:"width";i:300;s:6:"height";i:136;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:22020;}s:5:"large";a:5:{s:4:"file";s:37:"CIEAN-LOGO-WHITE-trimmed-1024x465.png";s:5:"width";i:1024;s:6:"height";i:465;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:117697;}s:9:"thumbnail";a:5:{s:4:"file";s:50:"CIEAN-LOGO-WHITE-trimmed-e1660051090619-150x92.png";s:5:"width";i:150;s:6:"height";i:92;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9366;}s:12:"medium_large";a:5:{s:4:"file";s:36:"CIEAN-LOGO-WHITE-trimmed-768x348.png";s:5:"width";i:768;s:6:"height";i:348;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:78424;}s:9:"1536x1536";a:5:{s:4:"file";s:37:"CIEAN-LOGO-WHITE-trimmed-1536x697.png";s:5:"width";i:1536;s:6:"height";i:697;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:228405;}s:9:"2048x2048";a:5:{s:4:"file";s:37:"CIEAN-LOGO-WHITE-trimmed-2048x929.png";s:5:"width";i:2048;s:6:"height";i:929;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:330587;}s:9:"home-blog";a:5:{s:4:"file";s:37:"CIEAN-LOGO-WHITE-trimmed-750x1000.png";s:5:"width";i:750;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:94261;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_backup_sizes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:10:{s:9:"full-orig";a:3:{s:5:"width";i:3892;s:6:"height";i:1766;s:4:"file";s:28:"CIEAN-LOGO-WHITE-trimmed.png";}s:14:"thumbnail-orig";a:5:{s:4:"file";s:36:"CIEAN-LOGO-WHITE-trimmed-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:10723;}s:11:"medium-orig";a:5:{s:4:"file";s:36:"CIEAN-LOGO-WHITE-trimmed-300x136.png";s:5:"width";i:300;s:6:"height";i:136;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:22020;}s:17:"medium_large-orig";a:5:{s:4:"file";s:36:"CIEAN-LOGO-WHITE-trimmed-768x348.png";s:5:"width";i:768;s:6:"height";i:348;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:78424;}s:10:"large-orig";a:5:{s:4:"file";s:37:"CIEAN-LOGO-WHITE-trimmed-1024x465.png";s:5:"width";i:1024;s:6:"height";i:465;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:117697;}s:14:"1536x1536-orig";a:5:{s:4:"file";s:37:"CIEAN-LOGO-WHITE-trimmed-1536x697.png";s:5:"width";i:1536;s:6:"height";i:697;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:228405;}s:14:"2048x2048-orig";a:5:{s:4:"file";s:37:"CIEAN-LOGO-WHITE-trimmed-2048x929.png";s:5:"width";i:2048;s:6:"height";i:929;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:330587;}s:14:"home-blog-orig";a:5:{s:4:"file";s:37:"CIEAN-LOGO-WHITE-trimmed-750x1000.png";s:5:"width";i:750;s:6:"height";i:1000;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:94261;}s:18:"full-1660051090619";a:3:{s:5:"width";i:203;s:6:"height";i:92;s:4:"file";s:43:"CIEAN-LOGO-WHITE-trimmed-e1660051081801.png";}s:23:"thumbnail-1660051090619";a:5:{s:4:"file";s:50:"CIEAN-LOGO-WHITE-trimmed-e1660051081801-150x92.png";s:5:"width";i:150;s:6:"height";i:92;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9366;}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[What we do]]></title>
+		<link>http://cadnet.test.ng/misc/what-we-do/</link>
+		<pubDate>Wed, 10 Aug 2022 06:46:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=misc&#038;p=69</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p><strong>At Earthjustice, we’re a nonprofit in the business of building a better future. We represent our clients free of charge.</strong></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>69</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-10 06:46:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-10 06:46:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-10 06:59:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-10 06:59:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[what-we-do]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[misc]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1502,25 +1523,25 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>http://cadnet.test.ng/2022/08/07/57/</link>
+		<title><![CDATA[Update & Resources]]></title>
+		<link>http://cadnet.test.ng/2022/08/10/57/</link>
 		<pubDate>Sun, 07 Aug 2022 14:33:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://cadnet.test.ng/?p=57</guid>
 		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>57</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-07 14:33:06]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-08-10 08:18:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-07 14:33:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-07 14:33:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-07 14:33:06]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-08-10 08:18:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-10 08:18:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[57]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1556,6 +1577,71 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-09]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Donate]]></title>
+		<link>http://cadnet.test.ng/2022/08/10/donate/</link>
+		<pubDate>Wed, 10 Aug 2022 08:18:45 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?p=70</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>70</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-10 08:18:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-10 08:18:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-10 08:18:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-10 08:18:45]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[donate]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[70]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
