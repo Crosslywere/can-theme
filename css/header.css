@@ -18,7 +18,7 @@ header li a:any-link {
     color:#000;
 }
 header .menu-item-has-children:hover > .sub-menu {
-    display:block;
+    display:block !important;
 }
 header .menu-item-has-children > a {
     display:none !important;
@@ -38,13 +38,17 @@ header .menu-container {
     border-radius:0 0 0 4px;
 }
 @media (min-width:768px) {
-    header .main-menu > li:first-child {
+    header #main-menu {
+        min-width:100% !important;
+    }
+    header #main-menu > li:first-child {
         padding-left:0;
     }
-    header .main-menu > li {
-        min-width: fit-content !important;
+    header #main-menu > li {
+        width:fit-content !important;
+        white-space:nowrap !important;
     }
-    header .main-menu > li:last-child {
+    header #main-menu > li:last-child {
         padding-right:0;
     }
     header .menu-item-has-children > .sub-menu {
@@ -60,12 +64,15 @@ header .menu-container {
         position:absolute;
         top:36px;
         background-color:white;
-        border-radius:0 4px 4px 4px;
-        box-shadow:1px 1px 1px rgba(0, 0, 0, .25);
+        border-radius:0 0 4px 4px;
+        box-shadow:1px 1px 1px rgba(5, 5, 5, .25);
         padding:0;
         width:140px;
         display:none;
         z-index:9;
+    }
+    header .menu-item-has-children:hover > .sub-menu {
+        display:block;
     }
     header .sub-menu li {
         padding:0 12px;

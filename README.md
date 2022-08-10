@@ -7,13 +7,13 @@ This theme is meant for use on the **climate advocacy network** site.
 >2. **Post Thumbnail** - this is accessible through any "hierarchical" post type.
 
 >3. **Menu** - menu is accessible through apperance. Menu is organized in the following order:
->    * Home
->    * Our Work
->    * Blog
+>    * Home(Page)
+>    * Our Work(Custom Post Type)
+>    * Blog(Category)
 >    * About
->        * About Us
->        * Staff
->        * Team
+>        * About Us(Page)
+>        * Staff(Custom Post Type)
+>        * Team(Custom Post Type)
 
 ### **Custom Post Types** :
 >1. **Miscellanious Content** - this is purely for managing content that I (the developer), doesn't know where to put eg content meant for the footer called Footer content. It has the "Miscellanious Tag" taxonomy attached to itself. The slug is 'misc'. It supports; 

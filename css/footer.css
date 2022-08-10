@@ -1,5 +1,5 @@
 footer a {
-    color:var(--can-anchor) !important;
+    color:var(--can-secondary) !important;
 }
 footer input {
     width:100%;
@@ -9,14 +9,15 @@ footer input {
 footer button[type="submit"] {
     padding:10px 30px;
     border-width:0;
-    background-color:var(--can-anchor);
+    background-color:var(--can-secondary);
 }
 footer button[type="submit"]:hover {
     animation: background-colorchange .66s;
+    background-color:var(--can-primary);
 }
 @keyframes background-colorchange {
     0% {
-        background-color:var(--can-anchor);
+        background-color:var(--can-secondary);
     }
     100% {
         background-color:var(--can-primary);
