@@ -32,11 +32,43 @@
                         <h4 class="text-center"><strong>Support</strong></h4>
                         <p class="text-center lh-5"><?php echo get_post_meta($post->ID, 'support message', true);?></p>
                         <div class="d-flex justify-content-center"><a href="#" class="button"><strong>DONATE</strong></a></div>
+                        <div class="row justify-content-around pt-4">
+                            <div class="col-auto">
+                                <?php $facebook = get_post_meta($post->ID, 'facebook', true);
+                                if($facebook):?>
+                                    <a href="<?php echo $facebook?>" target="_blank"><img src="<?php echo get_template_directory_uri();?>/assets/icons/facebook.svg" alt="facebook"></a>
+                                <?php endif;?>
+                            </div>
+                            <div class="col-auto">
+                                <?php $twitter = get_post_meta($post->ID, 'twitter', true);
+                                if($twitter):?>
+                                    <a href="<?php echo $twitter?>" target="_blank"><img src="<?php echo get_template_directory_uri();?>/assets/icons/twitter.svg" alt="twitter"></a>
+                                <?php endif;?>
+                            </div>
+                            <div class="col-auto">
+                                <?php $instagram = get_post_meta($post->ID, 'instagram', true);
+                                if($instagram):?>
+                                    <a href="<?php echo $instagram?>" target="_blank"><img src="<?php echo get_template_directory_uri();?>/assets/icons/instagram.svg" alt="instagram"></a>
+                                <?php endif;?>
+                            </div>
+                            <div class="col-auto">
+                                <?php $youtube = get_post_meta($post->ID, 'youtube', true);
+                                if($youtube):?>
+                                    <a href="<?php echo $youtube?>" target="_blank"><img src="<?php echo get_template_directory_uri();?>/assets/icons/youtube.svg" alt="youtube"></a>
+                                <?php endif;?>
+                            </div>
+                            <div class="col-auto">
+                                <?php $linkedin = get_post_meta($post->ID, 'linkedin', true);
+                                if($linkedin):?>
+                                    <a href="<?php echo $linkedin?>" target="_blank"><img src="<?php echo get_template_directory_uri();?>/assets/icons/linkedin.svg" alt="linkedin"></a>
+                                <?php endif;?>
+                            </div>
+                        </div>
                     </section>
                 </div>
-                <div class="row">
+                <div class="row justify-content-center">
                     <div class="col-auto">
-                        <span class="font-small copyright"><?php echo get_post_meta($post->ID, 'copyright', true);?></span>
+                        <p class="font-small text-center mb-0"><?php echo get_post_meta($post->ID, 'copyright', true);?></p>
                     </div>
                 </div>
             </div>
