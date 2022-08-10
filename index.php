@@ -30,11 +30,22 @@
                     <div class="font-larger font-bold text-center lh-1"><?php echo get_post_meta($post->ID, 'value 3', true);?></div>
                 </div>
             </div>
+            <div class="row justify-content-center">
+                <hr>
+                <?php $the_query = new WP_Query(['post_type'=>'misc', 'name'=>'what-we-do']);?>
+                <?php if($the_query->have_posts()):$the_query->the_post();?>
+                    <div class="col-md-11 py-4">
+                        <span class="font-big text-center lh-2">
+                            <?php the_content();?>
+                        </span>
+                    </div>
+                <?php endif; wp_reset_postdata();?>
+            </div>
             <div class="row py-5">
                 <div class="col-12">
-                    <div class="row justify-content-center justify-content-end">
-                        <div class="col-auto">
-                            <h2 class="font-large font-bold">Blog</h2>
+                    <div class="row justify-content-center justify-content-md-start">
+                        <div class="col col-md-4">
+                            <h2 class="font-large font-bold">What is happening right now</h2>
                         </div>
                         <hr class="my-0 z-index-under">
                     </div>
@@ -68,10 +79,10 @@
                             </div>
                         <?php endwhile; endif;?>
                     </div>
-                    <div class="row justify-content-center">
+                    <div class="row justify-content-center justify-content-md-start">
                         <hr class="my-0">
                         <div class="col-auto">
-                            <a href="<?php echo get_category_link(get_cat_id('Blog'));?>" class="font-bold text-dark text-decoration-none text-decoration-hover-underline">More</a>
+                            <a href="<?php echo get_category_link(get_cat_id('Blog'));?>" class="font-bold text-dark text-decoration-none text-decoration-hover-underline">More of the latest updates</a>
                         </div>
                     </div>
                 </div>
