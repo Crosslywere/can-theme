@@ -4,6 +4,9 @@ header {
     background-color:white !important;
     z-index:1;
 }
+header * {
+    font-size:20px !important;
+}
 header li {
     padding-left:1rem;
     padding-right:1rem;
@@ -37,6 +40,11 @@ header .menu-container {
     right:0 !important;
     border-radius:0 0 0 4px;
 }
+header #main-menu > li:last-child a {
+    padding:10px;
+    background-color:var(--can-secondary);
+    color:white !important;
+}
 @media (min-width:768px) {
     header #main-menu {
         min-width:100% !important;
@@ -48,8 +56,12 @@ header .menu-container {
         width:fit-content !important;
         white-space:nowrap !important;
     }
-    header #main-menu > li:last-child {
-        padding-right:0;
+    header #main-menu > li > a {
+        padding-bottom:0;
+    }
+    header .menu-item-has-children {
+        padding-top:50px;
+        padding-bottom:50px;
     }
     header .menu-item-has-children > .sub-menu {
         border-width:0;
@@ -73,6 +85,7 @@ header .menu-container {
     }
     header .menu-item-has-children:hover > .sub-menu {
         display:block;
+        top:126px;
     }
     header .sub-menu li {
         padding:0 12px;
