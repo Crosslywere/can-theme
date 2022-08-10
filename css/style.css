@@ -105,6 +105,11 @@
     transform:translateY(-50%);
     top:50% ;
 }
+.tag {
+    padding:1px 4px;
+    border:1px solid var(--can-black);
+    border-radius:2px;
+}
 a {
     cursor:pointer !important;
 }

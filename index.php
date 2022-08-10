@@ -62,16 +62,20 @@
                                         </div>
                                     </div>
                                     <div class="row">
-                                        <div class="col">
-                                        </div>
+                                        <?php $tags = get_the_tags($post->ID);?>
+                                        <?php if($tags):foreach($tags as $tag):?>
+                                            <div class="col-auto pe-1 mb-2">
+                                                <div class="tag font-small"><?php echo $tag->name;?></div>
+                                            </div>
+                                        <?php endforeach; endif;?>
                                     </div>
                                     <div class="row">
                                         <div class="col">
-                                            <p class="font-semi-bold text-decoration-none"><?php the_date();?></p>
+                                            <p class="font-medium text-decoration-none mb-0"><?php the_date();?></p>
                                         </div>
                                     </div>
                                     <div class="row">
-                                        <div class="col">
+                                        <div class="col mt-2">
                                             <h5 class="font-black"><?php the_title();?></h5>
                                         </div>
                                     </div>
