@@ -10,6 +10,7 @@
 .hero-img {
     background-attachment:fixed;
     background-size:cover;
+    color:var(--can-black);
     height:420px !important;
     min-height:fit-content !important;
 }
@@ -104,6 +105,14 @@
 .center-absolute-y {
     transform:translateY(-50%);
     top:50% ;
+}
+.center-absolute-x {
+    transform:translateX(-50%);
+    left:50%;
+    overflow-x:hidden !important;
+}
+.overflow-x-hidden {
+    overflow-x:hidden !important;
 }
 .tag {
     padding:1px 4px;

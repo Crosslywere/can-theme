@@ -47,7 +47,7 @@
                         <div class="col col-md-4">
                             <h2 class="font-large font-bold">What is happening right now</h2>
                         </div>
-                        <hr class="my-0 z-index-under">
+                        <hr>
                     </div>
                     <?php $the_query = new WP_Query(['category_name'=>'blog', 'posts_per_page'=>4]);?>
                     <div class="row text-black">
@@ -55,9 +55,9 @@
                             <div class="col-lg-3 col-md-6 col-12 pb-4">
                                 <a href="<?php echo the_permalink();?>"  class="text-dark text-decoration-none text-decoration-hover-underline">
                                     <div class="row">
-                                        <div style="width:100%;padding-bottom:calc(100% * (1000 / 750));" class="col position-relative">
+                                        <div style="width:calc(100% - 24px);padding-bottom:calc(100% * (1000 / 750));overflow-x:hidden;margin:0 12px;" class="col mb-3 position-relative">
                                             <?php if(get_post_thumbnail_id()):?>
-                                                <img src="<?php echo the_post_thumbnail_url('home-blog');?>" style="width:calc(100% - 24px)" class="center-absolute-y position-absolute">
+                                                <img src="<?php echo the_post_thumbnail_url('home-blog');?>" style="height:100%" class="center-absolute-x position-absolute">
                                             <?php endif;?>
                                         </div>
                                     </div>
@@ -84,7 +84,7 @@
                         <?php endwhile; endif;?>
                     </div>
                     <div class="row justify-content-center justify-content-md-start">
-                        <hr class="my-0">
+                        <hr>
                         <div class="col-auto">
                             <a href="<?php echo get_category_link(get_cat_id('Blog'));?>" class="font-bold text-dark text-decoration-none text-decoration-hover-underline">More of the latest updates</a>
                         </div>
