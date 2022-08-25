@@ -23,6 +23,11 @@ function enqueue_js() {
 
     wp_register_script('menu', get_template_directory_uri().'/js/menu.js', [], null, true);
     wp_enqueue_script('menu');
+
+    wp_register_script('team', get_template_directory_uri().'/js/team.js', [], null, true);
+    if (is_archive('team')) {
+        wp_enqueue_script('team');
+    }
 }
 add_action('wp_enqueue_scripts', 'enqueue_js');
 // Theme Supports
@@ -31,6 +36,7 @@ add_theme_support('custom-logo', ['height'=>92, 'width'=>214]);
 add_theme_support('post-thumbnails');
 // Image Sizes
 add_image_size('home-blog', 750, 1000, true);
+add_image_size('team', 255, 306, true);
 // Register nav menus
 register_nav_menus(['primary'=>'Primary Menu', 'secondary'=>'Secondary Menu', '']);
 // Registering Custom Post Types

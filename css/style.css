@@ -99,6 +99,9 @@
 .hero-text p {
     display:none !important;
 }
+.z-index-top {
+    z-index:9;
+}
 .z-index-under {
     z-index:-1;
 }
