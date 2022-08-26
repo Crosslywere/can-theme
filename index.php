@@ -45,7 +45,7 @@
                 <div class="col-12">
                     <div class="row justify-content-center justify-content-md-start">
                         <div class="col col-md-4">
-                            <h2 class="font-large font-bold">What is happening right now</h2>
+                            <h2 class="font-large text-can-primary font-bold">What is happening right now</h2>
                         </div>
                         <hr>
                     </div>
@@ -96,7 +96,7 @@
         <div class="container">
             <div class="row pt-5">
                 <div class="col">
-                    <h2 class="text-large font-black text-center mb-4"><?php the_title();?></h2>
+                    <h2 class="text-large font-black text-can-primary text-center mb-4"><?php the_title();?></h2>
                 </div>
             </div>
             <div class="row pb-5">
