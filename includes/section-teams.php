@@ -27,7 +27,7 @@
             </div>
         </div>
     </div>
-    <div class="position-fixed d-none d-flex align-items-center justify-content-center profile" id="id-<?php echo $team_id;?>" style="left:0;width:100vw;height:calc(100vh - 124px);bottom:0;background-color:rgba(0,0,0,0.4)">
+    <div class="position-fixed d-none d-flex align-items-center justify-content-center profile" id="id-<?php echo $team_id;?>" style="left:0;width:100%;height:calc(100vh - 124px);bottom:0;background-color:rgba(0,0,0,0.4)">
         <div class="container bg-white py-4 position-relative" style="max-height:calc(100vh - 268px);overflow-y:scroll;">
             <a class="z-index-top close"><img src="<?php echo get_template_directory_uri();?>/assets/icons/close.svg" class="position-absolute" style="top:0;right:0;"></a>
             <div class="row">

@@ -17,6 +17,9 @@
 .text-can-primary {
     color:var(--can-primary) !important;
 }
+.text-dark {
+    color:#000 !important;
+}
 .list-style-type-none {
     list-style-type:none !important;
 }
@@ -74,9 +77,6 @@
 .text-upper {
     text-transform:capitalize !important;
 }
-.text-dark {
-    color:#000 !important;
-}
 .text-decoration-hover-underline:hover {
     text-decoration:underline !important;
 }
@@ -117,10 +117,26 @@
 .overflow-x-hidden {
     overflow-x:hidden !important;
 }
+.overflow-hidden {
+    overflow:hidden !important;
+}
 .tag {
     padding:1px 4px;
     border:1px solid var(--can-black);
     border-radius:2px;
+}
+.nav-links {
+    padding-top:1em;
+    padding-bottom:1em;
+}
+.page-numbers {
+    color:var(--can-black) !important;
+    text-decoration:none !important;
+    margin-left:0.5em;
+    margin-right:0.5em;
+}
+.page-numbers:hover, .current.page-numbers {
+    text-decoration:underline !important;
 }
 a {
     cursor:pointer !important;
