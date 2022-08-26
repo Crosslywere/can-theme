@@ -86,6 +86,21 @@ function cpt_team() {
     register_post_type('team', $args);
 }
 add_action('init', 'cpt_team');
+// Board
+function cpt_board() {
+    $args = [
+        'labels'=>['name'=>__('Board of Advicors'), 'singlar_name'=>__('Advicory Board')],
+        'public'=>true,
+        'has_archive'=>true,
+        'show_in_rest'=>true,
+        'heirarchical'=>false,
+        'show_in_nav_menus'=>true,
+        'supports'=>['title', 'thumbnail', 'editor', 'custom-fields'],
+        'rewrite'=>['slug'=>'board'],
+    ];
+    register_post_type('board', $args);
+}
+add_action('init', 'cpt_board');
 // Registering Taxonomies
 // Miscellanious Taxonomy
 function tax_miscellanious() {
