@@ -138,6 +138,12 @@
 .page-numbers:hover, .current.page-numbers {
     text-decoration:underline !important;
 }
+.d-table {
+    display:table;
+}
+.d-table-cell {
+    display: table-cell;
+}
 a {
     cursor:pointer !important;
 }

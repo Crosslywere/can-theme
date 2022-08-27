@@ -10,7 +10,7 @@
                 </div>
             <?php endif; wp_reset_postdata();?>
         </div>
-        <div class="row px-0 my-5">
+        <div class="row px-0 my-5 d-table">
             <?php get_template_part('includes/section', 'our-work');?>
         </div>
     </div>
