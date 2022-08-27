@@ -11,6 +11,11 @@
             <?php endif; wp_reset_postdata();?>
         </div>
         <?php get_template_part('includes/section', 'board');?>
+        <div class="row justify-content-end">
+            <div class="col-auto">
+                <?php the_posts_pagination();?>
+            </div>
+        </div>
     </div>
 </main>
 <?php get_footer();?>
