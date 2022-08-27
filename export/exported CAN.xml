@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.1" created="2022-08-10 08:45" -->
+	<!-- generator="WordPress/6.0.1" created="2022-08-27 05:45" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Climate Advocacy Network</title>
 	<link>http://cadnet.test.ng</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Wed, 10 Aug 2022 08:45:07 +0000</pubDate>
+	<pubDate>Sat, 27 Aug 2022 05:45:16 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://cadnet.test.ng</wp:base_site_url>
@@ -49,7 +49,17 @@
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
-					<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
+			<wp:tag>
+		<wp:term_id>5</wp:term_id>
+		<wp:tag_slug><![CDATA[climate]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Climate]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>6</wp:term_id>
+		<wp:tag_slug><![CDATA[uk]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[UK]]></wp:tag_name>
+	</wp:tag>
+				<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
 
 	<generator>https://wordpress.org/?v=6.0.1</generator>
@@ -63,280 +73,6 @@
 </image> 
 
 		<item>
-		<title><![CDATA[Home]]></title>
-		<link>http://cadnet.test.ng/?p=5</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/?p=5</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2022-07-28 17:52:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-28 17:52:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://cadnet.test.ng/]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1659030725]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>http://cadnet.test.ng/?p=6</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/?p=6</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2022-07-28 17:52:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-28 17:52:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1659030725]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Our Work]]></title>
-		<link>http://cadnet.test.ng/2022/08/10/our-work/</link>
-		<pubDate>Mon, 01 Aug 2022 04:51:27 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/?p=11</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>11</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-10 08:18:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-01 04:51:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-10 08:18:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-10 08:18:45]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[our-work]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[11]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-01]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-05]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-06]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-07]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-09]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[ABOUT]]></title>
-		<link>http://cadnet.test.ng/2022/08/10/about-us/</link>
-		<pubDate>Mon, 01 Aug 2022 04:51:27 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/?p=13</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-10 08:18:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-01 04:51:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-10 08:18:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-10 08:18:45]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[13]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-01]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-05]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-06]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-07]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-09]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[home-hero]]></title>
 		<link>http://cadnet.test.ng/home-hero/</link>
 		<pubDate>Wed, 03 Aug 2022 12:14:54 +0000</pubDate>
@@ -367,224 +103,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1980;s:6:"height";i:800;s:4:"file";s:21:"2022/08/home-hero.jpg";s:8:"filesize";i:363662;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:21:"home-hero-300x121.jpg";s:5:"width";i:300;s:6:"height";i:121;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11409;}s:5:"large";a:5:{s:4:"file";s:22:"home-hero-1024x414.jpg";s:5:"width";i:1024;s:6:"height";i:414;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:125526;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"home-hero-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7689;}s:12:"medium_large";a:5:{s:4:"file";s:21:"home-hero-768x310.jpg";s:5:"width";i:768;s:6:"height";i:310;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:70922;}s:9:"1536x1536";a:5:{s:4:"file";s:22:"home-hero-1536x621.jpg";s:5:"width";i:1536;s:6:"height";i:621;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:267786;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:12:"Kiliii Yuyan";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Footer content]]></title>
-		<link>http://cadnet.test.ng/misc/footer-content/</link>
-		<pubDate>Fri, 05 Aug 2022 21:10:48 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=misc&#038;p=21</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>21</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-05 21:10:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-05 21:10:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-09 13:18:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-09 13:18:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[footer-content]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[misc]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[alt logo]]></wp:meta_key>
-		<wp:meta_value><![CDATA[http://cadnet.test.ng/wp-content/uploads/2022/08/CIEAN-LOGO-WHITE-trimmed-e1660051090619.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[copyright]]></wp:meta_key>
-		<wp:meta_value><![CDATA[© 2022 Climate Advocacy Network. Your contribution is tax-deductible.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[message link]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[contact mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[info@cadnet.org]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[po box]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Main Post Office<br>
-PO Box 751<br>
-Berkeley, CA 94701]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[address]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020 Milvia St<br>
-Suite #500<br>
-Berkeley, CA 94704]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[support message]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Your gift helps hold corporations accountable. Make a difference — donate today.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[twitter]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://www.twitter.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[facebook]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://www.facebook.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[instagram]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://www.instagram.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[youtube]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://www.youtube.com]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[linkedin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://www.linkedin.com]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Staff]]></title>
-		<link>http://cadnet.test.ng/2022/08/10/staff/</link>
-		<pubDate>Sat, 06 Aug 2022 15:08:47 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/?p=23</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>23</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-10 08:18:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-06 15:08:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-10 08:18:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-10 08:18:45]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[staff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[13]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[23]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-06]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-07]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-09]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Team]]></title>
-		<link>http://cadnet.test.ng/2022/08/10/team/</link>
-		<pubDate>Sat, 06 Aug 2022 15:08:47 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/?p=24</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>24</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-10 08:18:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-06 15:08:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-10 08:18:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-10 08:18:45]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[team]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[13]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[24]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-06]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-07]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-09]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -655,6 +173,10 @@ Berkeley, CA 94704]]></wp:meta_value>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:777;s:6:"height";i:780;s:4:"file";s:37:"2022/08/cropped-place-holder-logo.jpg";s:8:"filesize";i:99990;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:37:"cropped-place-holder-logo-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26404;}s:9:"thumbnail";a:5:{s:4:"file";s:37:"cropped-place-holder-logo-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9087;}s:12:"medium_large";a:5:{s:4:"file";s:37:"cropped-place-holder-logo-768x771.jpg";s:5:"width";i:768;s:6:"height";i:771;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86732;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_c728070ed850cf67c0854a5710ad87c7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -806,71 +328,6 @@ Berkeley, CA 94704]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>http://cadnet.test.ng/2022/08/10/55/</link>
-		<pubDate>Sun, 07 Aug 2022 11:49:09 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/?p=55</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>55</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-10 08:18:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-07 11:49:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-10 08:18:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-10 08:18:45]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[55]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[13]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[53]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-07]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2022-08-09]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[CIEAN LOGO BLACK]]></title>
 		<link>http://cadnet.test.ng/ciean-logo-black/</link>
 		<pubDate>Sun, 07 Aug 2022 14:52:41 +0000</pubDate>
@@ -1011,94 +468,480 @@ Berkeley, CA 94704]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[What we do]]></title>
-		<link>http://cadnet.test.ng/misc/what-we-do/</link>
-		<pubDate>Wed, 10 Aug 2022 06:46:36 +0000</pubDate>
+		<title><![CDATA[image]]></title>
+		<link>http://cadnet.test.ng/our-work/__trashed-3/image/</link>
+		<pubDate>Fri, 26 Aug 2022 08:44:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=misc&#038;p=69</guid>
+		<guid isPermaLink="false">http://cadnet.test.ng/wp-content/uploads/2022/08/image.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>111</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-26 08:44:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-26 08:44:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 08:44:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 08:44:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[image]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>105</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://cadnet.test.ng/wp-content/uploads/2022/08/image.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/image.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:720;s:6:"height";i:899;s:4:"file";s:17:"2022/08/image.png";s:8:"filesize";i:749494;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:17:"image-240x300.png";s:5:"width";i:240;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:120712;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"image-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:43424;}s:4:"team";a:5:{s:4:"file";s:17:"image-255x306.png";s:5:"width";i:255;s:6:"height";i:306;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:133876;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[image-1]]></title>
+		<link>http://cadnet.test.ng/our-work/__trashed-3/image-1/</link>
+		<pubDate>Fri, 26 Aug 2022 08:44:47 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/wp-content/uploads/2022/08/image-1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>112</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-26 08:44:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-26 08:44:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 08:44:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 08:44:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[image-1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>105</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://cadnet.test.ng/wp-content/uploads/2022/08/image-1.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/image-1.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:720;s:6:"height";i:899;s:4:"file";s:19:"2022/08/image-1.png";s:8:"filesize";i:749494;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:19:"image-1-240x300.png";s:5:"width";i:240;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:120712;}s:9:"thumbnail";a:5:{s:4:"file";s:19:"image-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:43424;}s:4:"team";a:5:{s:4:"file";s:19:"image-1-255x306.png";s:5:"width";i:255;s:6:"height";i:306;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:133876;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Cari Rudd]]></title>
+		<link>http://cadnet.test.ng/board/cari-rudd/</link>
+		<pubDate>Fri, 26 Aug 2022 21:45:44 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=board&#038;p=116</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p><strong>At Earthjustice, we’re a nonprofit in the business of building a better future. We represent our clients free of charge.</strong></p>
+<p>Cari Rudd is a strategic communications consultant for social good. Cari helps organizations optimize their institutional assets towards clear, effective and productive results. Cari’s experience spans public, private and non-profit sectors. From a background in film production, producing award-winning ads to designing winning campaigns for Democratic candidates and Issue initiatives, Cari seeks innovative solutions. A leadership aide to Senate Majority Leader Tom Daschle and a Vice President at Fenton Communications, Cari blends her diverse background in politics, advertising, and marketing to her clients, advocacy and funding priorities.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cari is a member of Rachel’s Network, a collection of women committed to environmental protection and conservation. She currently serves as a board member to the Catalogue for Philanthropy, Rachel's Action Network and the EthicMark Award for socially responsible advertising.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>69</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-10 06:46:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-10 06:46:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-10 06:59:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-10 06:59:35]]></wp:post_modified_gmt>
+		<wp:post_id>116</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-26 21:45:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-26 21:45:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 22:04:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 22:04:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[what-we-do]]></wp:post_name>
+		<wp:post_name><![CDATA[cari-rudd]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[misc]]></wp:post_type>
+		<wp:post_type><![CDATA[board]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Chair of Board]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[time-frame]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2014 - current]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[118]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Hello world!]]></title>
-		<link>http://cadnet.test.ng/?p=1</link>
-		<pubDate>Thu, 28 Jul 2022 17:22:57 +0000</pubDate>
+		<title><![CDATA[Cari Rudd]]></title>
+		<link>http://cadnet.test.ng/board/cari-rudd/cari-rudd-2/</link>
+		<pubDate>Fri, 26 Aug 2022 21:58:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/?p=1</guid>
+		<guid isPermaLink="false">http://cadnet.test.ng/wp-content/uploads/2022/08/Cari-Rudd.jpg</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2022-07-28 17:22:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-07-28 17:22:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-07 08:43:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-07 08:43:16]]></wp:post_modified_gmt>
+		<wp:post_id>118</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-26 21:58:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-26 21:58:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 21:58:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 21:58:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cari-rudd-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>116</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[http://cadnet.test.ng/wp-content/uploads/2022/08/Cari-Rudd.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/08/Cari-Rudd.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1659861796]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:500;s:6:"height";i:452;s:4:"file";s:21:"2022/08/Cari-Rudd.jpg";s:8:"filesize";i:57159;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:21:"Cari-Rudd-300x271.jpg";s:5:"width";i:300;s:6:"height";i:271;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21793;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"Cari-Rudd-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8503;}s:4:"team";a:5:{s:4:"file";s:21:"Cari-Rudd-255x306.jpg";s:5:"width";i:255;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21259;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Cari Rudd #2]]></title>
+		<link>http://cadnet.test.ng/board/cari-rudd-2/</link>
+		<pubDate>Fri, 26 Aug 2022 22:04:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=board&#038;p=119</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Cari Rudd is a strategic communications consultant for social good. Cari helps organizations optimize their institutional assets towards clear, effective and productive results. Cari’s experience spans public, private and non-profit sectors. From a background in film production, producing award-winning ads to designing winning campaigns for Democratic candidates and Issue initiatives, Cari seeks innovative solutions. A leadership aide to Senate Majority Leader Tom Daschle and a Vice President at Fenton Communications, Cari blends her diverse background in politics, advertising, and marketing to her clients, advocacy and funding priorities.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cari is a member of Rachel’s Network, a collection of women committed to environmental protection and conservation. She currently serves as a board member to the Catalogue for Philanthropy, Rachel's Action Network and the EthicMark Award for socially responsible advertising.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>119</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-26 22:04:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-26 22:04:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 22:05:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 22:05:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cari-rudd-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[board]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[116]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ Cari Rudd #[Counter]]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2022-07-28 17:22:57]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2022-07-28 17:22:57]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[118]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cari-rudd]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[time-frame]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2014 - current]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Chair of Board]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Cari Rudd #3]]></title>
+		<link>http://cadnet.test.ng/board/cari-rudd-3/</link>
+		<pubDate>Fri, 26 Aug 2022 22:06:45 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=board&#038;p=120</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Cari Rudd is a strategic communications consultant for social good. Cari helps organizations optimize their institutional assets towards clear, effective and productive results. Cari’s experience spans public, private and non-profit sectors. From a background in film production, producing award-winning ads to designing winning campaigns for Democratic candidates and Issue initiatives, Cari seeks innovative solutions. A leadership aide to Senate Majority Leader Tom Daschle and a Vice President at Fenton Communications, Cari blends her diverse background in politics, advertising, and marketing to her clients, advocacy and funding priorities.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cari is a member of Rachel’s Network, a collection of women committed to environmental protection and conservation. She currently serves as a board member to the Catalogue for Philanthropy, Rachel's Action Network and the EthicMark Award for socially responsible advertising.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>120</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-26 22:06:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-26 22:06:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 22:07:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 22:07:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cari-rudd-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[board]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[116]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ Cari Rudd #[Counter]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[118]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Chair of Board]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[time-frame]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2014 - current]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cari-rudd]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Cari Rudd #4]]></title>
+		<link>http://cadnet.test.ng/board/cari-rudd-4/</link>
+		<pubDate>Fri, 26 Aug 2022 22:08:32 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=board&#038;p=121</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Cari Rudd is a strategic communications consultant for social good. Cari helps organizations optimize their institutional assets towards clear, effective and productive results. Cari’s experience spans public, private and non-profit sectors. From a background in film production, producing award-winning ads to designing winning campaigns for Democratic candidates and Issue initiatives, Cari seeks innovative solutions. A leadership aide to Senate Majority Leader Tom Daschle and a Vice President at Fenton Communications, Cari blends her diverse background in politics, advertising, and marketing to her clients, advocacy and funding priorities.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cari is a member of Rachel’s Network, a collection of women committed to environmental protection and conservation. She currently serves as a board member to the Catalogue for Philanthropy, Rachel's Action Network and the EthicMark Award for socially responsible advertising.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>121</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-26 22:08:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-26 22:08:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 22:08:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 22:08:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cari-rudd-4]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[board]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[116]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ Cari Rudd #[Counter]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[118]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Chair of Board]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[time-frame]]></wp:meta_key>
+		<wp:meta_value><![CDATA[214 - current]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cari-rudd]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Cari Rudd #5]]></title>
+		<link>http://cadnet.test.ng/board/cari-rudd-5/</link>
+		<pubDate>Fri, 26 Aug 2022 22:09:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=board&#038;p=122</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Cari Rudd is a strategic communications consultant for social good. Cari helps organizations optimize their institutional assets towards clear, effective and productive results. Cari’s experience spans public, private and non-profit sectors. From a background in film production, producing award-winning ads to designing winning campaigns for Democratic candidates and Issue initiatives, Cari seeks innovative solutions. A leadership aide to Senate Majority Leader Tom Daschle and a Vice President at Fenton Communications, Cari blends her diverse background in politics, advertising, and marketing to her clients, advocacy and funding priorities.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cari is a member of Rachel’s Network, a collection of women committed to environmental protection and conservation. She currently serves as a board member to the Catalogue for Philanthropy, Rachel's Action Network and the EthicMark Award for socially responsible advertising.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>122</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-26 22:09:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-26 22:09:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 22:09:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 22:09:37]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cari-rudd-5]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[board]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[116]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ Cari Rudd #[Counter]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[118]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[time-frame]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2014 - current]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Chair of Board]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cari-rudd]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Cari Rudd #6]]></title>
+		<link>http://cadnet.test.ng/board/cari-rudd-6/</link>
+		<pubDate>Fri, 26 Aug 2022 22:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=board&#038;p=123</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Cari Rudd is a strategic communications consultant for social good. Cari helps organizations optimize their institutional assets towards clear, effective and productive results. Cari’s experience spans public, private and non-profit sectors. From a background in film production, producing award-winning ads to designing winning campaigns for Democratic candidates and Issue initiatives, Cari seeks innovative solutions. A leadership aide to Senate Majority Leader Tom Daschle and a Vice President at Fenton Communications, Cari blends her diverse background in politics, advertising, and marketing to her clients, advocacy and funding priorities.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cari is a member of Rachel’s Network, a collection of women committed to environmental protection and conservation. She currently serves as a board member to the Catalogue for Philanthropy, Rachel's Action Network and the EthicMark Award for socially responsible advertising.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>123</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-26 22:11:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-26 22:11:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 22:11:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 22:11:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cari-rudd-6]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[board]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[116]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ Cari Rudd #[Counter]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[118]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Chair of Board]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[time-frame]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2014 - current]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[cari-rudd]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Sample Page]]></title>
 		<link>http://cadnet.test.ng/sample-page/</link>
@@ -1175,6 +1018,126 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
+		<link>http://cadnet.test.ng/?p=5</link>
+		<pubDate></pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?p=5</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-28 17:52:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-28 17:52:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://cadnet.test.ng/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1659030725]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://cadnet.test.ng/?p=6</link>
+		<pubDate></pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?p=6</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-28 17:52:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-07-28 17:52:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_orphaned]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1659030725]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Home]]></title>
 		<link>http://cadnet.test.ng/</link>
 		<pubDate>Mon, 01 Aug 2022 03:52:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
@@ -1185,14 +1148,14 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>For 50 years, Earthjustice has been behind nearly every major environmental win. The law makes change.&nbsp;See&nbsp;our&nbsp;impact.</p>
+<p><strong>For 50 years, Earthjustice has been behind nearly every major environmental win. The law makes change. See our impact.</strong></p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2022-08-01 03:52:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-01 03:52:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-06 15:50:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-06 15:50:25]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-08-10 21:02:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-10 21:02:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1240,228 +1203,172 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>http://cadnet.test.ng/2022/08/01/wp-global-styles-cantheme/</link>
-		<pubDate>Mon, 01 Aug 2022 03:52:20 +0000</pubDate>
+		<title><![CDATA[ABOUT]]></title>
+		<link>http://cadnet.test.ng/2022/08/26/about-us/</link>
+		<pubDate>Mon, 01 Aug 2022 04:51:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/2022/08/01/wp-global-styles-cantheme/</guid>
+		<guid isPermaLink="false">http://cadnet.test.ng/?p=13</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>8</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-01 03:52:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-01 03:52:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-01 03:52:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-01 03:52:20]]></wp:post_modified_gmt>
+		<wp:post_id>13</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-26 21:47:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-01 04:51:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 21:47:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 21:47:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-cantheme]]></wp:post_name>
+		<wp:post_name><![CDATA[about-us]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="can-theme"><![CDATA[CAN Theme]]></category>
-						</item>
-					<item>
-		<title><![CDATA[We’re joining legal action against greenwashing ads by a DC gas company]]></title>
-		<link>http://cadnet.test.ng/2022/08/06/were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company/</link>
-		<pubDate>Sat, 06 Aug 2022 18:24:51 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/?p=40</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>40</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-06 18:24:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-06 18:24:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-07 10:09:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-07 10:09:03]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[31]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-01]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-05]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-06]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-09]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-20]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[We’re joining legal action against greenwashing ads by a DC gas company #2]]></title>
-		<link>http://cadnet.test.ng/2022/08/07/were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company-2/</link>
-		<pubDate>Sun, 07 Aug 2022 10:34:11 +0000</pubDate>
+		<title><![CDATA[Footer content]]></title>
+		<link>http://cadnet.test.ng/misc/footer-content/</link>
+		<pubDate>Fri, 05 Aug 2022 21:10:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/?p=47</guid>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=misc&#038;p=21</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>47</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-07 10:34:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-07 10:34:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-07 10:34:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-07 10:34:13]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company-2]]></wp:post_name>
+		<wp:post_id>21</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-05 21:10:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-05 21:10:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-09 13:18:46]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-09 13:18:46]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[footer-content]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[misc]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[40]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[alt logo]]></wp:meta_key>
+		<wp:meta_value><![CDATA[http://cadnet.test.ng/wp-content/uploads/2022/08/CIEAN-LOGO-WHITE-trimmed-e1660051090619.png]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[ We’re joining legal action against greenwashing ads by a DC gas company #[Counter]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[31]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[We’re joining legal action against greenwashing ads by a DC gas company #3]]></title>
-		<link>http://cadnet.test.ng/2022/08/07/were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company-3/</link>
-		<pubDate>Sun, 07 Aug 2022 10:34:23 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/?p=48</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>48</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-07 10:34:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-07 10:34:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-07 10:34:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-07 10:34:25]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company-3]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[40]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[ We’re joining legal action against greenwashing ads by a DC gas company #[Counter]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[31]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[We’re joining legal action against greenwashing ads by a DC gas company #4]]></title>
-		<link>http://cadnet.test.ng/2022/08/07/were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company-4/</link>
-		<pubDate>Sun, 07 Aug 2022 10:34:45 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://cadnet.test.ng/?p=49</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>49</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-07 10:34:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-08-07 10:34:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-07 10:34:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-07 10:34:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company-4]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[40]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[ We’re joining legal action against greenwashing ads by a DC gas company #[Counter]]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[31]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company]]></wp:meta_value>
+		<wp:meta_key><![CDATA[copyright]]></wp:meta_key>
+		<wp:meta_value><![CDATA[© 2022 Climate Advocacy Network. Your contribution is tax-deductible.]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[message link]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[contact mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[info@cadnet.org]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[po box]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Main Post Office<br>
+PO Box 751<br>
+Berkeley, CA 94701]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[address]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020 Milvia St<br>
+Suite #500<br>
+Berkeley, CA 94704]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[support message]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Your gift helps hold corporations accountable. Make a difference — donate today.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[twitter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.twitter.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[facebook]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.facebook.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[instagram]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.instagram.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[youtube]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.youtube.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[linkedin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.linkedin.com]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1523,8 +1430,85 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[]]></title>
+		<link>http://cadnet.test.ng/2022/08/26/55/</link>
+		<pubDate>Sun, 07 Aug 2022 11:49:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?p=55</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>55</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-26 21:47:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-07 11:49:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 21:47:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 21:47:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[55]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[53]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-07]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-09]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-20]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Update & Resources]]></title>
-		<link>http://cadnet.test.ng/2022/08/10/57/</link>
+		<link>http://cadnet.test.ng/2022/08/26/57/</link>
 		<pubDate>Sun, 07 Aug 2022 14:33:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://cadnet.test.ng/?p=57</guid>
@@ -1532,10 +1516,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>57</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-10 08:18:45]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-08-26 21:47:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-07 14:33:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-10 08:18:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-10 08:18:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 21:47:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 21:47:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[57]]></wp:post_name>
@@ -1586,10 +1570,52 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2022-08-09]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-20]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[What we do]]></title>
+		<link>http://cadnet.test.ng/misc/what-we-do/</link>
+		<pubDate>Wed, 10 Aug 2022 06:46:36 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=misc&#038;p=69</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p><strong>At Earthjustice, we’re a nonprofit in the business of building a better future. We represent our clients free of charge.</strong></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>69</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-10 06:46:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-10 06:46:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-10 06:59:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-10 06:59:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[what-we-do]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[misc]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Donate]]></title>
-		<link>http://cadnet.test.ng/2022/08/10/donate/</link>
+		<link>http://cadnet.test.ng/2022/08/26/donate/</link>
 		<pubDate>Wed, 10 Aug 2022 08:18:45 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://cadnet.test.ng/?p=70</guid>
@@ -1597,10 +1623,10 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>70</wp:post_id>
-		<wp:post_date><![CDATA[2022-08-10 08:18:45]]></wp:post_date>
+		<wp:post_date><![CDATA[2022-08-26 21:47:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-08-10 08:18:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-08-10 08:18:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-08-10 08:18:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 21:47:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 21:47:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[donate]]></wp:post_name>
@@ -1642,6 +1668,1241 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-20]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://cadnet.test.ng/2022/08/26/79/</link>
+		<pubDate>Sat, 20 Aug 2022 09:55:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?p=79</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>79</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-26 21:47:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-20 09:55:38]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 21:47:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 21:47:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[79]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type_archive]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-23]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[team]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-08-20]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Our Work]]></title>
+		<link>http://cadnet.test.ng/misc/our-work/</link>
+		<pubDate>Thu, 25 Aug 2022 19:40:52 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=misc&#038;p=103</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Americans don’t have to choose between creating good jobs and protecting the environment. We can and must do both.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>103</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-25 19:40:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-25 19:40:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-25 19:40:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-25 19:40:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[our-work]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[misc]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Fair Trade]]></title>
+		<link>http://cadnet.test.ng/our-work/__trashed-3/</link>
+		<pubDate>Thu, 25 Aug 2022 21:33:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=our-work&#038;p=105</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[SOLIDARITY FOR CLIMATE ACTION IS OUR PLAN TO PUT WORKING PEOPLE FRONT AND CENTER AS WE CREATE A NEW ECONOMY.]]></excerpt:encoded>
+		<wp:post_id>105</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-25 21:33:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-25 21:33:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 07:56:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 07:56:03]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[__trashed-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[our-work]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Clean Infrastructure]]></title>
+		<link>http://cadnet.test.ng/our-work/__trashed-2/</link>
+		<pubDate>Thu, 25 Aug 2022 21:33:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=our-work&#038;p=106</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Repairing America's infrastructure is a significant opportunity to create quality jobs. But it's also an opportunity to rebuild these systems to protect the health of workers and communities, to reduce carbon and methane emissions.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>106</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-25 21:33:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-25 21:33:15]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 08:16:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 08:16:31]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[__trashed-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[our-work]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Good Jobs]]></title>
+		<link>http://cadnet.test.ng/our-work/good-jobs/</link>
+		<pubDate>Fri, 26 Aug 2022 06:59:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=our-work&#038;p=108</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Innovating, building and installing the clean economy—clean energy, energy efficiency, safe chemicals, and clean vehicles—is protecting the environment while creating quality jobs across the country and ensuring the health of workers and the environment.<a href="https://www.bluegreenalliance.org/work-issue/solidarity-for-climate-action/"></a></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>108</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-26 06:59:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-26 06:59:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 07:55:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 07:55:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[good-jobs]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[our-work]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>http://cadnet.test.ng/2022/08/26/109/</link>
+		<pubDate>Fri, 26 Aug 2022 07:00:14 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?p=109</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>109</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-26 21:47:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-26 07:00:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 21:47:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 21:47:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[109]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type_archive]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-23]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[our-work]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Board of Directors]]></title>
+		<link>http://cadnet.test.ng/misc/board-of-directors/</link>
+		<pubDate>Fri, 26 Aug 2022 20:58:40 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=misc&#038;p=114</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>The <em>As You Sow</em> Board of Directors is comprised of talented and dedicated volunteers. Our Directors, all of whom are independent voting members, bring a broad range of expertise and interests including experience in social activism, publishing, education, environmental law, business, socially responsible investing, fundraising, and philanthropy.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>114</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-26 20:58:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-26 20:58:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 21:04:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 21:04:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[board-of-directors]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[misc]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Board]]></title>
+		<link>http://cadnet.test.ng/2022/08/26/board/</link>
+		<pubDate>Fri, 26 Aug 2022 21:47:26 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?p=117</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>117</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-26 21:47:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-26 21:47:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-26 21:47:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-26 21:47:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[board]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type_archive]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-49]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[board]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Hello world!]]></title>
+		<link>http://cadnet.test.ng/?p=1</link>
+		<pubDate>Thu, 28 Jul 2022 17:22:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-28 17:22:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-28 17:22:57]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-07 08:43:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-07 08:43:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1659861796]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2022-07-28 17:22:57]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2022-07-28 17:22:57]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>http://cadnet.test.ng/2022/08/01/wp-global-styles-cantheme/</link>
+		<pubDate>Mon, 01 Aug 2022 03:52:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/2022/08/01/wp-global-styles-cantheme/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-01 03:52:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-01 03:52:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-01 03:52:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-01 03:52:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-cantheme]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="can-theme"><![CDATA[CAN Theme]]></category>
+						</item>
+					<item>
+		<title><![CDATA[We’re joining legal action against greenwashing ads by a DC gas company]]></title>
+		<link>http://cadnet.test.ng/2022/08/06/were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company/</link>
+		<pubDate>Sat, 06 Aug 2022 18:24:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?p=40</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[In order to allow their investors to understand their workplace diversity, 87 of the S&P 100 companies have released or have committed to releasing their EEO-1 form, a standardized, government mandated accounting of diversity of gender race and ethnicity by employment levels. By contrast, of the more than 60 companies Berkshire owns, only one has publicly released this form.]]></excerpt:encoded>
+		<wp:post_id>40</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-06 18:24:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-06 18:24:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-13 10:12:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-13 10:12:37]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
+		<category domain="post_tag" nicename="climate"><![CDATA[Climate]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[We’re joining legal action against greenwashing ads by a DC gas company #2]]></title>
+		<link>http://cadnet.test.ng/2022/08/07/were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company-2/</link>
+		<pubDate>Sun, 07 Aug 2022 10:34:11 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?p=47</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[In order to allow their investors to understand their workplace diversity, 87 of the S&P 100 companies have released or have committed to releasing their EEO-1 form, a standardized, government mandated accounting of diversity of gender race and ethnicity by employment levels. By contrast, of the more than 60 companies Berkshire owns, only one has publicly released this form.]]></excerpt:encoded>
+		<wp:post_id>47</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-07 10:34:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-07 10:34:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-13 10:12:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-13 10:12:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
+		<category domain="post_tag" nicename="uk"><![CDATA[UK]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ We’re joining legal action against greenwashing ads by a DC gas company #[Counter]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[We’re joining legal action against greenwashing ads by a DC gas company #3]]></title>
+		<link>http://cadnet.test.ng/2022/08/07/were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company-3/</link>
+		<pubDate>Sun, 07 Aug 2022 10:34:23 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?p=48</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-07 10:34:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-07 10:34:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-10 19:50:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-10 19:50:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
+		<category domain="post_tag" nicename="climate"><![CDATA[Climate]]></category>
+		<category domain="post_tag" nicename="uk"><![CDATA[UK]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ We’re joining legal action against greenwashing ads by a DC gas company #[Counter]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[We’re joining legal action against greenwashing ads by a DC gas company #4]]></title>
+		<link>http://cadnet.test.ng/2022/08/07/were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company-4/</link>
+		<pubDate>Sun, 07 Aug 2022 10:34:45 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?p=49</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[In order to allow their investors to understand their workplace diversity, 87 of the S&P 100 companies have released or have committed to releasing their EEO-1 form, a standardized, government mandated accounting of diversity of gender race and ethnicity by employment levels. By contrast, of the more than 60 companies Berkshire owns, only one has publicly released this form.]]></excerpt:encoded>
+		<wp:post_id>49</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-07 10:34:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-07 10:34:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-13 10:12:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-13 10:12:23]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company-4]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="blog"><![CDATA[Blog]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ We’re joining legal action against greenwashing ads by a DC gas company #[Counter]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[31]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[were-joining-legal-action-against-greenwashing-ads-by-a-dc-gas-company]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Dr Adetunji]]></title>
+		<link>http://cadnet.test.ng/team/dr-adetunji/</link>
+		<pubDate>Sat, 20 Aug 2022 09:55:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=team&#038;p=78</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas vel repudiandae asperiores! Corporis, ad tenetur. Eaque magnam qui accusamus deleniti debitis consequatur nisi, molestias dolore odit fugiat doloribus, hic mollitia, nulla officiis? Nostrum nesciunt ipsum rerum aspernatur cumque. Debitis eum excepturi aliquam vero cupiditate fuga numquam repellendus modi mollitia ex quaerat labore nulla doloremque cum, sunt similique laudantium! Deserunt amet vero nobis cupiditate temporibus voluptatum. Laudantium molestiae tenetur aliquid! Ex iure reiciendis esse veniam id enim. Modi officia omnis ipsum perferendis odio, neque quo deserunt voluptas! Sequi pariatur culpa quo quos repellendus commodi sed laborum dolore possimus minima optio in totam nihil maxime distinctio provident quidem obcaecati, cumque quasi velit ipsam ad dolorum consequatur! Laborum numquam nihil beatae vel alias. Dignissimos, et fugiat!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>78</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-20 09:55:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-20 09:55:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-20 17:52:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-20 17:52:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dr-adetunji]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[team]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[linkedin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.linkedin.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[mr-ememe]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[President/CEO]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[team-group]]></wp:meta_key>
+		<wp:meta_value><![CDATA[African Leadership Academy]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Dr Adetunji #2]]></title>
+		<link>http://cadnet.test.ng/team/dr-adetunji-2/</link>
+		<pubDate>Sat, 20 Aug 2022 17:58:00 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=team&#038;p=89</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas vel repudiandae asperiores! Corporis, ad tenetur. Eaque magnam qui accusamus deleniti debitis consequatur nisi, molestias dolore odit fugiat doloribus, hic mollitia, nulla officiis? Nostrum nesciunt ipsum rerum aspernatur cumque. Debitis eum excepturi aliquam vero cupiditate fuga numquam repellendus modi mollitia ex quaerat labore nulla doloremque cum, sunt similique laudantium! Deserunt amet vero nobis cupiditate temporibus voluptatum. Laudantium molestiae tenetur aliquid! Ex iure reiciendis esse veniam id enim. Modi officia omnis ipsum perferendis odio, neque quo deserunt voluptas! Sequi pariatur culpa quo quos repellendus commodi sed laborum dolore possimus minima optio in totam nihil maxime distinctio provident quidem obcaecati, cumque quasi velit ipsam ad dolorum consequatur! Laborum numquam nihil beatae vel alias. Dignissimos, et fugiat!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>89</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-20 17:58:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-20 17:58:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-20 17:58:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-20 17:58:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dr-adetunji-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[team]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[78]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ Dr Adetunji #[Counter]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[mr-ememe]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[linkedin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.linkedin.com]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[team-group]]></wp:meta_key>
+		<wp:meta_value><![CDATA[African Leadership Academy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[President/CEO]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[dr-adetunji]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Dr Adetunji #3]]></title>
+		<link>http://cadnet.test.ng/team/dr-adetunji-3/</link>
+		<pubDate>Sat, 20 Aug 2022 17:58:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=team&#038;p=90</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas vel repudiandae asperiores! Corporis, ad tenetur. Eaque magnam qui accusamus deleniti debitis consequatur nisi, molestias dolore odit fugiat doloribus, hic mollitia, nulla officiis? Nostrum nesciunt ipsum rerum aspernatur cumque. Debitis eum excepturi aliquam vero cupiditate fuga numquam repellendus modi mollitia ex quaerat labore nulla doloremque cum, sunt similique laudantium! Deserunt amet vero nobis cupiditate temporibus voluptatum. Laudantium molestiae tenetur aliquid! Ex iure reiciendis esse veniam id enim. Modi officia omnis ipsum perferendis odio, neque quo deserunt voluptas! Sequi pariatur culpa quo quos repellendus commodi sed laborum dolore possimus minima optio in totam nihil maxime distinctio provident quidem obcaecati, cumque quasi velit ipsam ad dolorum consequatur! Laborum numquam nihil beatae vel alias. Dignissimos, et fugiat!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>90</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-20 17:58:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-20 17:58:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-20 17:58:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-20 17:58:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dr-adetunji-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[team]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[78]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ Dr Adetunji #[Counter]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[mr-ememe]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[team-group]]></wp:meta_key>
+		<wp:meta_value><![CDATA[African Leadership Academy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[President/CEO]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[dr-adetunji]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Dr Adetunji #4]]></title>
+		<link>http://cadnet.test.ng/team/dr-adetunji-4/</link>
+		<pubDate>Sat, 20 Aug 2022 17:59:34 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=team&#038;p=91</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas vel repudiandae asperiores! Corporis, ad tenetur. Eaque magnam qui accusamus deleniti debitis consequatur nisi, molestias dolore odit fugiat doloribus, hic mollitia, nulla officiis? Nostrum nesciunt ipsum rerum aspernatur cumque. Debitis eum excepturi aliquam vero cupiditate fuga numquam repellendus modi mollitia ex quaerat labore nulla doloremque cum, sunt similique laudantium! Deserunt amet vero nobis cupiditate temporibus voluptatum. Laudantium molestiae tenetur aliquid! Ex iure reiciendis esse veniam id enim. Modi officia omnis ipsum perferendis odio, neque quo deserunt voluptas! Sequi pariatur culpa quo quos repellendus commodi sed laborum dolore possimus minima optio in totam nihil maxime distinctio provident quidem obcaecati, cumque quasi velit ipsam ad dolorum consequatur! Laborum numquam nihil beatae vel alias. Dignissimos, et fugiat!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>91</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-20 17:59:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-20 17:59:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-20 17:59:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-20 17:59:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dr-adetunji-4]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[team]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[78]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ Dr Adetunji #[Counter]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[mr-ememe]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[team-group]]></wp:meta_key>
+		<wp:meta_value><![CDATA[African Leadership Academy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[President/CEO]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[dr-adetunji]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Dr Adetunji #5]]></title>
+		<link>http://cadnet.test.ng/team/dr-adetunji-5/</link>
+		<pubDate>Sat, 20 Aug 2022 18:00:55 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=team&#038;p=92</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas vel repudiandae asperiores! Corporis, ad tenetur. Eaque magnam qui accusamus deleniti debitis consequatur nisi, molestias dolore odit fugiat doloribus, hic mollitia, nulla officiis? Nostrum nesciunt ipsum rerum aspernatur cumque. Debitis eum excepturi aliquam vero cupiditate fuga numquam repellendus modi mollitia ex quaerat labore nulla doloremque cum, sunt similique laudantium! Deserunt amet vero nobis cupiditate temporibus voluptatum. Laudantium molestiae tenetur aliquid! Ex iure reiciendis esse veniam id enim. Modi officia omnis ipsum perferendis odio, neque quo deserunt voluptas! Sequi pariatur culpa quo quos repellendus commodi sed laborum dolore possimus minima optio in totam nihil maxime distinctio provident quidem obcaecati, cumque quasi velit ipsam ad dolorum consequatur! Laborum numquam nihil beatae vel alias. Dignissimos, et fugiat!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>92</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-20 18:00:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-20 18:00:55]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-20 18:00:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-20 18:00:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dr-adetunji-5]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[team]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[78]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ Dr Adetunji #[Counter]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[mr-ememe]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[team-group]]></wp:meta_key>
+		<wp:meta_value><![CDATA[African Leadership Academy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[dr-adetunji]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[President/CEO]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Dr Adetunji #6]]></title>
+		<link>http://cadnet.test.ng/team/dr-adetunji-6/</link>
+		<pubDate>Sat, 20 Aug 2022 18:01:31 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=team&#038;p=93</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas vel repudiandae asperiores! Corporis, ad tenetur. Eaque magnam qui accusamus deleniti debitis consequatur nisi, molestias dolore odit fugiat doloribus, hic mollitia, nulla officiis? Nostrum nesciunt ipsum rerum aspernatur cumque. Debitis eum excepturi aliquam vero cupiditate fuga numquam repellendus modi mollitia ex quaerat labore nulla doloremque cum, sunt similique laudantium! Deserunt amet vero nobis cupiditate temporibus voluptatum. Laudantium molestiae tenetur aliquid! Ex iure reiciendis esse veniam id enim. Modi officia omnis ipsum perferendis odio, neque quo deserunt voluptas! Sequi pariatur culpa quo quos repellendus commodi sed laborum dolore possimus minima optio in totam nihil maxime distinctio provident quidem obcaecati, cumque quasi velit ipsam ad dolorum consequatur! Laborum numquam nihil beatae vel alias. Dignissimos, et fugiat!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>93</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-20 18:01:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-20 18:01:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-20 18:01:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-20 18:01:32]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dr-adetunji-6]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[team]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[78]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ Dr Adetunji #[Counter]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[mr-ememe]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[team-group]]></wp:meta_key>
+		<wp:meta_value><![CDATA[African Leadership Academy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[dr-adetunji]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[President/CEO]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Dr Adetunji #7]]></title>
+		<link>http://cadnet.test.ng/team/dr-adetunji-7/</link>
+		<pubDate>Sat, 20 Aug 2022 18:02:07 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=team&#038;p=94</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas vel repudiandae asperiores! Corporis, ad tenetur. Eaque magnam qui accusamus deleniti debitis consequatur nisi, molestias dolore odit fugiat doloribus, hic mollitia, nulla officiis? Nostrum nesciunt ipsum rerum aspernatur cumque. Debitis eum excepturi aliquam vero cupiditate fuga numquam repellendus modi mollitia ex quaerat labore nulla doloremque cum, sunt similique laudantium! Deserunt amet vero nobis cupiditate temporibus voluptatum. Laudantium molestiae tenetur aliquid! Ex iure reiciendis esse veniam id enim. Modi officia omnis ipsum perferendis odio, neque quo deserunt voluptas! Sequi pariatur culpa quo quos repellendus commodi sed laborum dolore possimus minima optio in totam nihil maxime distinctio provident quidem obcaecati, cumque quasi velit ipsam ad dolorum consequatur! Laborum numquam nihil beatae vel alias. Dignissimos, et fugiat!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>94</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-20 18:02:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-20 18:02:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-20 18:02:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-20 18:02:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dr-adetunji-7]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[team]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[78]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ Dr Adetunji #[Counter]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[mr-ememe]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[team-group]]></wp:meta_key>
+		<wp:meta_value><![CDATA[African Leadership Academy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[dr-adetunji]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[President/CEO]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Dr Adetunji #8]]></title>
+		<link>http://cadnet.test.ng/team/dr-adetunji-8/</link>
+		<pubDate>Sat, 20 Aug 2022 18:03:08 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=team&#038;p=95</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas vel repudiandae asperiores! Corporis, ad tenetur. Eaque magnam qui accusamus deleniti debitis consequatur nisi, molestias dolore odit fugiat doloribus, hic mollitia, nulla officiis? Nostrum nesciunt ipsum rerum aspernatur cumque. Debitis eum excepturi aliquam vero cupiditate fuga numquam repellendus modi mollitia ex quaerat labore nulla doloremque cum, sunt similique laudantium! Deserunt amet vero nobis cupiditate temporibus voluptatum. Laudantium molestiae tenetur aliquid! Ex iure reiciendis esse veniam id enim. Modi officia omnis ipsum perferendis odio, neque quo deserunt voluptas! Sequi pariatur culpa quo quos repellendus commodi sed laborum dolore possimus minima optio in totam nihil maxime distinctio provident quidem obcaecati, cumque quasi velit ipsam ad dolorum consequatur! Laborum numquam nihil beatae vel alias. Dignissimos, et fugiat!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>95</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-20 18:03:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-20 18:03:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-20 18:03:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-20 18:03:09]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dr-adetunji-8]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[team]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[78]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ Dr Adetunji #[Counter]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[mr-ememe]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[team-group]]></wp:meta_key>
+		<wp:meta_value><![CDATA[African Leadership Academy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[position]]></wp:meta_key>
+		<wp:meta_value><![CDATA[President/CEO]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[dr-adetunji]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Dr Adetunji #9]]></title>
+		<link>http://cadnet.test.ng/?post_type=team&#038;p=96</link>
+		<pubDate>Sat, 20 Aug 2022 18:09:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://cadnet.test.ng/?post_type=team&#038;p=96</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas vel repudiandae asperiores! Corporis, ad tenetur. Eaque magnam qui accusamus deleniti debitis consequatur nisi, molestias dolore odit fugiat doloribus, hic mollitia, nulla officiis? Nostrum nesciunt ipsum rerum aspernatur cumque. Debitis eum excepturi aliquam vero cupiditate fuga numquam repellendus modi mollitia ex quaerat labore nulla doloremque cum, sunt similique laudantium! Deserunt amet vero nobis cupiditate temporibus voluptatum. Laudantium molestiae tenetur aliquid! Ex iure reiciendis esse veniam id enim. Modi officia omnis ipsum perferendis odio, neque quo deserunt voluptas! Sequi pariatur culpa quo quos repellendus commodi sed laborum dolore possimus minima optio in totam nihil maxime distinctio provident quidem obcaecati, cumque quasi velit ipsam ad dolorum consequatur! Laborum numquam nihil beatae vel alias. Dignissimos, et fugiat!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>96</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-20 18:09:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-20 18:09:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-08-25 20:51:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-08-25 20:51:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dr-adetunji-9__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[team]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[78]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_site]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_origin_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ Dr Adetunji #[Counter]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_cdp_counter]]></wp:meta_key>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[mr-ememe]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[dr-adetunji]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1661460698]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[dr-adetunji-9]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
