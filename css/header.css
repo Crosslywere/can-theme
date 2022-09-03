@@ -46,7 +46,7 @@ header #main-menu > li:last-child a {
     background-color:var(--can-secondary);
     color:white !important;
 }
-@media (min-width:768px) {
+@media (min-width:992px) {
     header #main-menu {
         min-width:100% !important;
     }

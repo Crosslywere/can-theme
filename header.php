@@ -16,10 +16,10 @@
                         <?php echo get_custom_logo();?>
                     </div>
                     <div class="col-auto">
-                        <a><img src="<?php echo get_template_directory_uri();?>/assets/icons/menu.svg" class="d-inline-block d-md-none" id="main-menu-btn"></a>
+                        <a><img src="<?php echo get_template_directory_uri();?>/assets/icons/menu.svg" class="d-inline-block d-lg-none" id="main-menu-btn"></a>
                     </div>
                     <div class="col-12 col-md-auto d-flex justify-content-center">
-                        <?php wp_nav_menu(['theme_location'=>'primary', 'menu_class'=>'d-none flex-column flex-md-row d-md-inline-flex align-items-center justify-content-end list-style-type-none text-decoration-none font-bold m-0 p-0', 'menu_id'=>'main-menu']);?>
+                        <?php wp_nav_menu(['theme_location'=>'primary', 'menu_class'=>'d-none flex-column flex-md-row d-lg-inline-flex align-items-center justify-content-end list-style-type-none text-decoration-none font-bold m-0 p-0', 'menu_id'=>'main-menu']);?>
                     </div>
                 </div>
             </div>
