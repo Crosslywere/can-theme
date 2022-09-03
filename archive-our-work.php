@@ -10,7 +10,7 @@
                 </div>
             <?php endif; wp_reset_postdata();?>
         </div>
-        <div class="row px-0 my-5">
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 px-0 my-5" style="height:calc(100% * (600 / 534));">
             <?php get_template_part('includes/section', 'our-work');?>
         </div>
     </div>
