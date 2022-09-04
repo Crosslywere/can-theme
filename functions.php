@@ -38,7 +38,7 @@ add_theme_support('post-thumbnails');
 add_image_size('home-blog', 750, 1000, true);
 add_image_size('team', 255, 306, true);
 // Register nav menus
-register_nav_menus(['primary'=>'Primary Menu', 'secondary'=>'Secondary Menu', '']);
+register_nav_menus(['primary'=>'Primary Menu', 'secondary'=>'Secondary Menu']);
 // Registering Custom Post Types
 // Miscellanious
 function cpt_miscellanious() {
